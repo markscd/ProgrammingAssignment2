@@ -4,7 +4,7 @@
 
 # And if the inverse of the matrix has already been returned,
 # do not re-calculate; simply provide the results and a message
-# saying that that it is being returned.
+# saying that it is being returned.
 
 makeCacheMatrix <- function(x = matrix()) {
      # Create the matrix to be stored.
